@@ -26,7 +26,7 @@ public class AppFrame extends JFrame implements ActionListener {
         add(panel);
 
 //        To prevent Copying
-        JLabel Down = new JLabel("Whoever copies this is Gay 🗿");
+        JLabel Down = new JLabel("Jai Shri Ram");
         Down.setBounds(130, 500, 500, 20);
         Down.setHorizontalAlignment(SwingConstants.CENTER);
         this.add(Down);
